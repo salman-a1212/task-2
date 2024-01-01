@@ -1180,6 +1180,10 @@ body {
   .bottom-footer-text-right {
     margin: 0 10px;
   }
+  .col-2 {
+    width: auto;
+    padding: 0;
+  }
 }
 
 @media (max-width: 600px) {
